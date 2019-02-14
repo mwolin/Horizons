@@ -333,14 +333,14 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #003BC4 !important;
+  border-color: #003BC4 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #002C94 !important;
+  border-color: #002C94 !important;
 }
 
 .btn-secondary {
@@ -365,7 +365,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #002C94 !important;
 }
 
 .text-primary {
